@@ -25,24 +25,8 @@
           "explorer": [
               {
                   "id": "spotibitExplorer",
-                  "name": "Spotibit Explorer",
-                  "contextualTitle": "Spotibit Explorer"
-              }
-          ]
-      },
-      "commands": [
-          {
-              "command": "spotibit.toggleView",
-              "title": "Toggle Spotibit View",
-              "category": "Spotibit"
-          }
-      ],
-      "menus": {
-          "view/title": [
-              {
-                  "command": "spotibit.toggleView",
-                  "when": "view == spotibitExplorer",
-                  "group": "navigation"
+                  "name": "Spotibit",
+                  "contextualTitle": "Spotibit"
               }
           ]
       }
